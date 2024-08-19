@@ -91,6 +91,7 @@ export const {
   changeBorderImage,
   checkoutInCart,
   deleteItemInCart,
+  calculatePrice,
 } = cartSlice.actions;
 
 export default cartSlice.reducer;
